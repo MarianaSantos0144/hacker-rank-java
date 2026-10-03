@@ -40,7 +40,7 @@ hacker-rank-java/
 
 ```text
 | Category                    | Completed |
-| --------------------------- | --------: |
+| --------------------------- | --------- |
 | Introduction                |         0 |
 | Strings                     |         0 |
 | Data Structures             |         0 |
